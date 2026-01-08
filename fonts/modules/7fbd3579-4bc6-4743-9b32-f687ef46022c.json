@@ -1,0 +1,29 @@
+{
+  "id": "7fbd3579-4bc6-4743-9b32-f687ef46022c",
+  "slug": "untitled",
+  "script": "latn",
+  "name": "Untitled",
+  "description": "",
+  "characters": [],
+  "spacing": "proportional",
+  "xHeight": 3,
+  "ascenderHeight": 2,
+  "descenderHeight": 2,
+  "letterSpacing": 1,
+  "capHeight": 5,
+  "metadata": {
+    "category": "sans-serif",
+    "role": "text",
+    "copyright": "",
+    "version": "0.1"
+  },
+  "exportOptions": {
+    "includeVersionInName": true,
+    "letterSpacingPlacement": "right",
+    "offsetTop": 1,
+    "offsetBottom": 0
+  },
+  "timeCreated": "",
+  "timeUpdated": "2026-01-08T11:00:02.109Z",
+  "version": 1
+}
