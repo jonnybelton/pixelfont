@@ -1,3 +1,4 @@
 {
-  "glyphReferenceFont": "sans"
+  "glyphReferenceFont": "sans",
+  "characterTagsEnabled": true
 }
